@@ -1,0 +1,19 @@
+{
+    "offers": [
+        {
+            "title": "Descuento del 20% en Coloración",
+            "description": "Aprovecha nuestro descuento especial del 20% en todos los servicios de coloración. ¡Renueva tu look con nosotros!",
+            "validity": "Hasta el 30 de septiembre"
+        },
+        {
+            "title": "2x1 en Cortes de Barbería",
+            "description": "Trae a un amigo y obtén dos cortes de barbería por el precio de uno. ¡No te lo pierdas!",
+            "validity": "Hasta el 15 de octubre"
+        },
+        {
+            "title": "Manicure Gratis en tu Primer Visita",
+            "description": "Disfruta de un manicure gratuito en tu primera visita a nuestro salón. ¡Te esperamos!",
+            "validity": "Solo durante el mes de septiembre"
+        }
+    ]
+}
